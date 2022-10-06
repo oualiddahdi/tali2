@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="achotik.tali.accounting">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:targetApi="31">
+        <activity
+            android:name=".ui.register.AccountInformationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.credit_book.customers.AddCustomersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.credit_book.suppliers.AddSuppliersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.register.PhoneAuthScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.HomeScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ui.register.OtpScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ui.WelcomeScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

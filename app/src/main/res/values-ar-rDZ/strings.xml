@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tali</string>
+
+    <string name="menu_dashboard">التحكم</string>
+    <string name="menu_credit_book">الديون</string>
+    <string name="menu_cash_book">المحفظة</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="suppliers">الموردين</string>
+    <string name="customers">العملاء</string>
+
+
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "238218991683",
+    "project_id": "tali-96b4b",
+    "storage_bucket": "tali-96b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238218991683:android:f69278ef15420c7aab5cf6",
+        "android_client_info": {
+          "package_name": "achotik.tali.accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238218991683-2tvrd09upq23sqa8p3n0anbiindghhj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwuYuFCbtSxn0Cken0rl_5lk5h_SygD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238218991683-2tvrd09upq23sqa8p3n0anbiindghhj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238218991683:android:cbf66edbf6c2da5bab5cf6",
+        "android_client_info": {
+          "package_name": "app.tali.achotik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238218991683-2tvrd09upq23sqa8p3n0anbiindghhj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwuYuFCbtSxn0Cken0rl_5lk5h_SygD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238218991683-2tvrd09upq23sqa8p3n0anbiindghhj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
